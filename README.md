@@ -4,7 +4,7 @@ The original jishaku (discord.py) is [here](https://github.com/Gorialis/jishaku)
 > Note: safemode is no longer supported.
 ## Usage
 ### Example
-All example are [here](https://github.com/otoneko1102/djsk-v13/tree/main/examples).
+All example are [here](https://github.com/otnc/djsk-v13/tree/main/examples).
 ```js
 const { Client } = require('discord.js');
 const { token, intents } = require('./config');
